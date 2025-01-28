@@ -36,3 +36,22 @@ div .logo{
 h1{
     font-size: 33px;
 }
+
+/* main */
+
+.box-add{
+    width: auto;
+    height: 55px;
+    background-color: #ffff;
+    margin: 0px 170px 10px;
+}
+
+.box-main{
+    
+    width: auto;
+    height: 1100px;
+    background-color: #ffff;
+    margin: 0px 170px 20px;
+
+}
+
