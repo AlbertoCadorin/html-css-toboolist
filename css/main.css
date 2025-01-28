@@ -14,12 +14,12 @@ body{
 
 /* modifica header */
 
-.logo{
-    
+#id{
+    height: 50px;
     display: inline-block;
 }
 
-div .logo{
+div .testa{
     height: 50px;
     width: 225px;
     padding: 10px auto 10px 20px;
@@ -30,21 +30,15 @@ div .logo{
     width: auto;
     height: 80px;
     background-color: #ffff;
-    margin-bottom: 40px;
+    
 }
 
 h1{
     font-size: 33px;
+    display: inline-block;
 }
 
 /* main */
-
-.box-add{
-    width: auto;
-    height: 55px;
-    background-color: #ffff;
-    margin: 0px 170px 10px;
-}
 
 .box-main{
     
@@ -53,5 +47,38 @@ h1{
     background-color: #ffff;
     margin: 0px 170px 20px;
 
+}
+
+.box-add{
+    width: auto;
+    height: 55px;
+    background-color: #ffff;
+    margin: 40px 170px 10px;
+    
+}
+
+.task{
+    display: inline-block;
+    font-size: 15px;
+    padding: 4px;
+    margin: 15px 0px 10px 51px;
+    border-style: solid;
+    border-radius: 7px;
+    background-color: #14aaf5;
+    border-color: #14aaf5;
+    color: #ffff;
+    
+
+}
+
+.section{
+    display: inline-block;
+    font-size: 15px;
+    padding: 4px;
+    margin: 15px auto 10px 5px;
+    border-style: solid;
+    border-radius: 7px;
+    border-color: #d1d7db;
+    color: #d1d7db;
 }
 
