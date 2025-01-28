@@ -170,6 +170,17 @@ h3{
     color: #ffff;
 }
 
+.sales{
+    font-size: 15px;
+    padding: 4px 7px;
+    margin: 15px auto 10px 3px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #a3d116;
+    border-color: #a3d116;
+    color: #ffff;
+}
+
 
 
 /* impostazioni blocco*/
