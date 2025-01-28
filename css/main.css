@@ -19,7 +19,7 @@ body{
     display: inline-block;
 }
 
-div .testa{
+.testa{
     height: 50px;
     width: 225px;
     padding: 10px auto 10px 20px;
@@ -38,7 +38,7 @@ h1{
     display: inline-block;
 }
 
-/* main */
+/*  pre main */
 
 .box-main{
     
@@ -82,3 +82,43 @@ h1{
     color: #d1d7db;
 }
 
+/* main */
+
+h2{
+    font-size: 20px;
+    padding: 36px 10px 10px 10px;
+    border-style: none; 
+    margin: 0% auto 0px 50px;
+    color: #434851;
+}
+
+
+
+
+/* box main */
+
+
+.fatto{
+    font-size: 17px ;
+    color: #49ceb7;
+}
+
+h3{
+    font-size: 17px;
+    display: inline-block;
+}
+
+.editorial{
+    font-size: 15px;
+    padding: 4px 7px;
+    margin: 15px auto 10px 3px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #14aaf5;
+    border-color: #14aaf5;
+    color: #ffff; 
+}
+
+.blocco{
+    margin: 18px auto 36px 60px;
+}
