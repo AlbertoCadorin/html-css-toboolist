@@ -1,5 +1,38 @@
+
+/* reset */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* colore sfondo */
+body{
+    background-color: #f6f8f9;
+}
+
+/* modifica header */
+
+.logo{
+    
+    display: inline-block;
+}
+
+div .logo{
+    height: 50px;
+    width: 225px;
+    padding: 10px auto 10px 20px;
+    
+}
+
+.box-titolo{
+    width: auto;
+    height: 80px;
+    background-color: #ffff;
+    margin-bottom: 40px;
+}
+
+h1{
+    font-size: 33px;
 }
