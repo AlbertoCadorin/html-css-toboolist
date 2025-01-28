@@ -137,6 +137,28 @@ h3{
     color: #ffff;
 }
 
+.recruiting{
+    font-size: 15px;
+    padding: 4px 7px;
+    margin: 15px auto 10px 3px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #2cc6ab;
+    border-color: #2cc6ab;
+    color: #ffff;
+}
+
+.mobile{
+    font-size: 15px;
+    padding: 4px 7px;
+    margin: 15px auto 10px 3px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #ff9b00;
+    border-color: #ff9b00;
+    color: #ffff;
+}
+
 
 
 /* impostazioni blocco*/
