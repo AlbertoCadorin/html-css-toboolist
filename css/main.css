@@ -159,6 +159,17 @@ h3{
     color: #ffff;
 }
 
+.website{
+    font-size: 15px;
+    padding: 4px 7px;
+    margin: 15px auto 10px 3px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #ec4a9d;
+    border-color: #ec4a9d;
+    color: #ffff;
+}
+
 
 
 /* impostazioni blocco*/
